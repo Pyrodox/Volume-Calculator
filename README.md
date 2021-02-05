@@ -1,4 +1,4 @@
-# Volume-Calculator
+# Volume-Calculator-VolumeCalculator.py is the main file.
 This calculator calculates the volumes of rectangular prisms, cones, cylinders, square pyramids, and spheres.
 https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297 
 Originally got the idea from this website, but I used volumes of 3D shapes instead of areas of polygons.
