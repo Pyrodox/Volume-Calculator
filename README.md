@@ -11,3 +11,4 @@ Some features:
 3. user can restart program
 4. while loops
 5. use of classes, a dictionary, a tuple
+6. multiple modules
