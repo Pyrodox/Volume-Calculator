@@ -3,7 +3,7 @@ This calculator calculates the volumes of rectangular prisms, cones, cylinders, 
 https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297 
 Originally got the idea from this website, but I used volumes of 3D shapes instead of areas of polygons.
 I did not mod this project; it was created by me.
-THis project was created to solidify my understanding of classes and objects.
+This project was created to solidify my understanding of classes and objects.
 
 Some features:
 1. The volume calculator asks for which shape you'd like to calculate.
